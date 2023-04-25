@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Michal,
+ I am a second year computer science student at Collegium Da Vinci Poznan, Poland.
+### :hammer_and_wrench: Skills :
+[![My Skills](https://skillicons.dev/icons?i=python,django,docker)](https://skillicons.dev)
 
 <!--
 **MichalKudlinski/MichalKudlinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
